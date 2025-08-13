@@ -10,9 +10,15 @@ This fusion of diverse facial expression datasets improves the model's ability t
 The model predicts the following 7 basic emotion classes:
 
 😠 anger
+
 🤢 disgust
+
 😨 fear
+
 😀 happy
+
 😐 neutral
+
 😢 sad
+
 😲 surprise
